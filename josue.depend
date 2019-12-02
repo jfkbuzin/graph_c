@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1447724608 source:d:\ufrgs\analise combinatoria\grafos\josue\fila.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fila.h"
+
+1447547846 d:\ufrgs\analise combinatoria\grafos\josue\fila.h
+
+1447725889 source:d:\ufrgs\analise combinatoria\grafos\josue\grafo.cpp
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1447725879 d:\ufrgs\analise combinatoria\grafos\josue\grafo.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1447725159 source:d:\ufrgs\analise combinatoria\grafos\josue\main.cpp
+	"grafo.h"
+
